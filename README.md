@@ -10,7 +10,7 @@ The system is very early at the moment and may have many bugs, my goal for this 
 Note: If the Singleton isn't enabled on the script (listed under AutoLoad) than turn it on as it will make things much simpler
 3. Now you can use the 'SaveSystem' in any script just by typing SaveSystem.functionName()
 
-#### Side Notes
+### Side Notes
 I will be using this system in a lot of my games myself, check them out [here](https://ironstudios.itch.io/).
 
 I will continue work on this whenever I can, however, I may be too busy to work on it at the moment as I am getting into the indie game dev world so sorry if I can't always be here to help out
