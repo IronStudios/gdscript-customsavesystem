@@ -1,4 +1,4 @@
-# IronStudio's Custom Save-System in GDScript (gdscript-customsavesystem)
+# IronStudio's Save-System Plugin for Godot
 My own custom Save-System for the Godot Engine, simply place it in your game files and add it as AutoLoad.
 The system is very early at the moment and may have many bugs, my goal for this project is to make the most user friendly save-system humanly possible, however, at the moment it is everything BUT that, I do not suggest using the current iterration of the project at the moment while it's still in beta.
 
